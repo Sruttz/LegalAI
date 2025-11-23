@@ -203,7 +203,7 @@ Once launched, you’ll see:
 ## 👩‍💻 Authors
 
 * [Bindu T D](https://github.com/Bindhu-T-Devidas)
-* Sruthika Sivakumar
+* [Sruthika Sivakumar](https://github.com/Sruttz)
 * Tanisha Ibrahim
 * Under the guidance of Prof. Manjul Krishna Gupta (RV University)*
 
